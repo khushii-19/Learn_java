@@ -1,4 +1,4 @@
-package nested_switch;
+package switch_nested;
 
 import java.util.Scanner;
 
